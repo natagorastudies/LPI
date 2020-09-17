@@ -6,5 +6,5 @@ R Codes for WWF LPI
   - Birds in Brussels
   - Birds in Flanders
   - RSwan Code for birds in Belgium
-  - Many MSI for the LPI's
+
   
